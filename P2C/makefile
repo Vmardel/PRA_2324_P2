@@ -1,5 +1,5 @@
-test: cambio.cpp cambio.h main.cpp
-	g++ main.cpp cambio.cpp cambio.h
+test: monedas.cpp monedas.h main.cpp
+	g++ main.cpp monedas.cpp monedas.h
 	./a.out
 
 test2: mochila.cpp mochila.h testMochila.cpp
